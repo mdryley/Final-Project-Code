@@ -4,6 +4,6 @@ Samples for the the EMF sound engine and the video footage is located in a googl
 
 Download and unzip the 'Bounces' folder before placing it in the _Exhibition Patch folder containing the Max patches
 
-Download the video footage and it in the _Exhibition Patch folder
+Download  final_project_footage.mov and place it in the _Exhibition Patch folder
 
 You may need to update the file paths in Max's file preferences tab under the options menu 
